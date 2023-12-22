@@ -25,7 +25,9 @@ This course is designed for beginner to intermediate developers who want to buil
 
 ## Watch it on YouTube
 
-- TUTORIAL => [Watch it on YouTube](https://youtube.com/live/wN67aeuDSVc?feature=share)
+- PART 1 => [Watch it on YouTube](https://youtube.com/live/wN67aeuDSVc?feature=share)
+- PART 2 => [Watch it on YouTube](https://youtube.com/live/EPlDeZEpnrc?feature=share)
+- PART 3 => [Watch it on YouTube](https://youtube.com/live/mFrWRwRwrWs?feature=share)
 
 **Support Me**
 
@@ -39,6 +41,7 @@ This course is designed for beginner to intermediate developers who want to buil
 
 - flutter_svg: [get package](https://pub.dev/packages/flutter_svg)
 - google_fonts: [get package](https://pub.dev/packages/google_fonts)
+- flutter_map: [get package](https://pub.dev/packages/flutter_map)
 
 **Code Credit**
 
